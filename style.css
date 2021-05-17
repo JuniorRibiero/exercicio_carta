@@ -1,0 +1,62 @@
+        .bg {
+            background-color: #F6D6FF;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+        }
+
+        #principal {
+            border-style: solid;
+            border-radius: 10px;
+            border-color: #94FFCF;
+            border-width: 6px;
+            margin: 80px 650px;
+            background-color: #94FFCF;
+            background-size: cover;
+
+
+        }
+
+        .texto {
+            font-size: 15px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+            text-align: justify;
+            margin: 35px;
+            color: #3d3d3d;
+        }
+
+        h1 {
+            color: #ffffff;
+        }
+        .proxima{
+            background-color: #94FFCF;
+            text-align: center;
+            padding: 6px 2px;
+            border-radius: 5px;
+            font-size: 15px;
+            font-weight: bold;
+            float: right;
+            width: 150px;
+            margin-right: 650px;
+            margin-top: 0px;
+        }
+            
+        a{
+            color: #41946f;
+            text-decoration: none;
+        }
+        .anterior{
+
+            background-color: #94FFCF;
+            text-align: center;
+            padding: 6px 2px;
+            border-radius: 5px;
+            font-size: 15px;
+            font-weight: bold;
+            float: left;
+            width: 150px;
+            margin-left: 650px;
+            margin-top: 0px;
+        }
